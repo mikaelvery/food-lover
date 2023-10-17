@@ -1,0 +1,8 @@
+{
+  "name": "FoodLover",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f760b796"
+}
